@@ -1,2 +1,1 @@
-# nerdbearspray
-To create a better NetrunnerDB experience.
+This Chrome extension makes NetrunnerDB.com more bearable.
